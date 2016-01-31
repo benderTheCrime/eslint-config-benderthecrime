@@ -16,3 +16,6 @@ parser:
 ```
 npm i --save-dev eslint-config-google babel-eslint
 ```
+
+### Changes
+For an up to date list of changes, please see the [CHANGELOG.md](https://github.com/benderTheCrime/eslint-config-benderTheCrime/blob/master/md/CHANGELOG.md "CHANGELOG")
