@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-benderthecrime",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Joe Groseclose <@benderTheCrime>",
   "description": "Shareable ESLint configuration",
   "main": "index.js",
@@ -23,7 +23,6 @@
   "license": "MIT",
   "dependencies": {
     "babel-eslint": "^4.1.6",
-    "eslint": "^1.10.3",
     "eslint-config-google": "^0.3.0"
   }
 }
