@@ -23,6 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3",
     "eslint-config-google": "^0.3.0"
   }
 }
