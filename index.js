@@ -10,7 +10,15 @@ module.exports = {
         browser: true
     },
     rules: {
-        'max-len': 2,
+        'max-len': [
+            2,
+            80,
+            4,
+            {
+                ignoreUrls: true,
+                ignorePattern: '^import.*'
+            }
+        ],
         'eol-last': 0,
         'no-multiple-empty-lines': [
             2,
