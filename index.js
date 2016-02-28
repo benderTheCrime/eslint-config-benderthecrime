@@ -20,6 +20,10 @@ module.exports = {
             }
         ],
         'eol-last': 0,
+        'space-before-keywords': 0,
+        'space-after-keywords': 0,
+        'space-return-throw-case': 0,
+        'keyword-spacing': 2,
         'no-multiple-empty-lines': [
             2,
             {
@@ -61,6 +65,10 @@ module.exports = {
         'no-implicit-coercion': 0,
         'guard-for-in': 0,
         'accessor-pairs': 0,
-        radix: 0
+        radix: 0,
+        'no-empty-label': 0,
+        'no-labels': 2,
+        'consistent-return': 0,
+        'no-return-assign': 0
     }
 };
