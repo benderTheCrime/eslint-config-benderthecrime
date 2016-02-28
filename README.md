@@ -9,12 +9,11 @@ Add this to your project and your code will thank you:
   }
 ```
 
-You will also need the `eslint-config-google` package, from which this config
-inherits as well as the `babel-eslint` package, which this package uses as its
-parser:
+You will also need the the `babel-eslint` package, which this package uses as
+its parser:
 
 ```
-npm i --save-dev eslint-config-google babel-eslint
+npm i --save-dev babel-eslint
 ```
 
 ### Changes
