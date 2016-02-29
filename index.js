@@ -69,6 +69,7 @@ module.exports = {
         'no-empty-label': 0,
         'no-labels': 2,
         'consistent-return': 0,
-        'no-return-assign': 0
+        'no-return-assign': 0,
+        'array-callback-return': 0
     }
 };
