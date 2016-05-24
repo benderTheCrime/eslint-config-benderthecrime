@@ -16,7 +16,7 @@ module.exports = {
             4,
             {
                 ignoreUrls: true,
-                ignorePattern: '^import.*'
+                ignorePattern: '^(import.*|const\s.*\s=\srequire.*)'
             }
         ],
         'eol-last': 0,

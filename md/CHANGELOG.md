@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.3.1] - 2016-05-24
+#### Changed
+- Changed the RegExp ignore pattern for `max-len` to accept "const/require"
+statements
+
 ### [1.3.0] - 2016-02-29
 #### Added
 - Added new 2.0 rules for `array-callback-return`
