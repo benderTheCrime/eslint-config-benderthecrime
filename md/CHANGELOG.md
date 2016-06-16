@@ -2,8 +2,14 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-### [1.3.1] - 2016-05-24
-#### Changed
+### [1.4.0] - 2016-06-16
+#### Added/Changed/Removed
+- Upgraded to eslint "2.12.0" and modified rules to reflect the upgrade
+- Added ES6 specific rules to the configuration
+- Removed extension dependencies
+
+#### [1.3.1] - 2016-05-24
+##### Changed
 - Changed the RegExp ignore pattern for `max-len` to accept "const/require"
 statements
 
