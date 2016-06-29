@@ -44,7 +44,9 @@ module.exports = {
         'no-unreachable': 2,
         'no-unsafe-finally': 2,
         'use-isnan': 2,
-        'valid-jsdoc': [ 1, { prefer: { arg: 'param', argument: 'param', class: 'constructor', return: 'returns', virtual: 'abstract' }, requireReturn: false, requireReturnType: true, matchDescription: '.+', requireParamDescription: false, requireReturnDescription: false } ],
+
+        // TODO:
+        'valid-jsdoc': 0,
         'valid-typeof': 2,
         'accessor-pairs': 2,
         'array-callback-return': 2,
