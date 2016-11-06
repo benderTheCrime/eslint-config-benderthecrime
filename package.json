@@ -1,17 +1,15 @@
 {
   "name": "eslint-config-benderthecrime",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "author": "Joe Groseclose <@benderTheCrime>",
   "description": "Shareable ESLint configuration",
-  "main": "index.js",
   "private": false,
   "scripts": {
+    "eslint": "./node_modules/.bin/eslint lib index.js --rulesdir=lib/rules",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
-    "iojs": "*",
-    "babel-node": "*",
-    "node": "*"
+    "node": ">6 <7"
   },
   "repository": {
     "type": "git",
@@ -23,8 +21,8 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "babel-eslint": "6.0.4",
-    "eslint": "2.12.0",
-    "eslint-plugin-react": "5.1.1"
+    "babel-eslint": "^7.1.0",
+    "eslint": "^3.9.1",
+    "eslint-plugin-react": "^6.6.0"
   }
 }

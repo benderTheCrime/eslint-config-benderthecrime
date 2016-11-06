@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.5.0] - 2016-11-06
+#### Added/Changed/Removed
+- Added the "max-func-body-len" rule
+- Added `eslintrc.json` to which `index.js` now points
+- Upgraded versions of eslint depenednencies
+- Removed the "new-cap-alt" rule
+
 ### [1.4.0] - 2016-06-16
 #### Added/Changed/Removed
 - Upgraded to eslint "2.12.0" and modified rules to reflect the upgrade
