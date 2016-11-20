@@ -395,10 +395,9 @@
             1,
             {
                 "terms": [
-                    "todo",
-                    "fixme",
-                    "xxx",
-                    "note"
+                    "FIXME",
+                    "NOTE",
+                    "TODO"
                 ]
             }
         ],

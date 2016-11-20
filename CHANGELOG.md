@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.6.0] - 2016-20-06
+#### Added/Changed
+- Added the "require-jsdoc-on-export" rule
+- Changed the "no-warning-comments" terms to all caps
+
 ### [1.5.0] - 2016-11-06
 #### Added/Changed/Removed
 - Added the "max-func-body-len" rule
