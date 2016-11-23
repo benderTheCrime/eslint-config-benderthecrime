@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.9.0] - 2016-23-11
+#### Added/Changed
+- Added rule for "no-for-in"
+- Updated "max-nested-callbacks"
+
 ### [1.8.0] - 2016-22-11
 #### Changed
 - Update rule for "one-var"
