@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.10.0] - 2016-23-11
+#### Changed
+- Update "eqeqeq": smart is not so smart
+
 ### [1.9.0] - 2016-23-11
 #### Added/Changed
 - Added rule for "no-for-in"
