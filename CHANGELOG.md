@@ -2,7 +2,27 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-### [1.6.0] - 2016-20-06
+
+### [1.7.0] - 2016-22-11
+#### Changed
+- Enabled the following rules:
+  - "complexity"
+  - "func-style"
+  - "id-length"
+  - "max-statements"
+  - "no-continue"
+  - "no-empty-function"
+  - "no-implicit-coercion"
+  - "no-invalid-this"
+  - "no-lone-blocks"
+  - "no-magic-numbers"
+  - "no-sync"
+  - "no-underscore-dangle"
+  - "padded-blocks"
+  - "prefer-rest-params"
+
+
+### [1.6.0] - 2016-20-11
 #### Added/Changed
 - Added the "require-jsdoc-on-export" rule
 - Changed the "no-warning-comments" terms to all caps
