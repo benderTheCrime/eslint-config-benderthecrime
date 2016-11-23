@@ -2,6 +2,9 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.8.0] - 2016-22-11
+#### Changed
+- Update rule for "one-var"
 
 ### [1.7.0] - 2016-22-11
 #### Changed
@@ -20,7 +23,6 @@ This project adheres to [Semantic Versioning](http://semver.org/).
   - "no-underscore-dangle"
   - "padded-blocks"
   - "prefer-rest-params"
-
 
 ### [1.6.0] - 2016-20-11
 #### Added/Changed

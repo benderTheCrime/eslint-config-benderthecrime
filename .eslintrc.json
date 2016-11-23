@@ -453,11 +453,7 @@
         ],
         "one-var": [
             2,
-            {
-                "var": "always",
-                "let": "always",
-                "const": "never"
-            }
+            "never"
         ],
         "one-var-declaration-per-line": [
             2,
