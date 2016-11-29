@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.11.0] - 2016-29-11
+#### Changed
+- Be more specific about "consistent-return"
+- Changed "max-params" from 8 to 3
+
 ### [1.10.0] - 2016-23-11
 #### Changed
 - Update "eqeqeq": smart is not so smart
