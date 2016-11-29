@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.12.0] - 2016-29-11
+#### Add
+- Add rule for "exports-always-on-top"
+
 ### [1.11.0] - 2016-29-11
 #### Changed
 - Be more specific about "consistent-return"
