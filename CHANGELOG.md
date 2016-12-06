@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.14.0] - 2016-05-12
+#### Added/Changed/Removed
+- Added the following rules:
+  - "cache-for-loop-length"
+  - "no-for-each"
+- Disable rule "require-jsdoc"
+- Removed JSDocs
+
 ### [1.13.0] - 2016-05-12
 #### Added
 - Added the following rules:

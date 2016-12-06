@@ -483,7 +483,7 @@
             }
         ],
         "radix": 0,
-        "require-jsdoc": 1,
+        "require-jsdoc": 0,
         "require-yield": 2,
         "rest-spread-spacing": [
             2,
