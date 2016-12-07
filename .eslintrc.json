@@ -200,7 +200,7 @@
             "always"
         ],
         "newline-before-return": 2,
-        "newline-per-chained-call": 0,
+        "newline-per-chained-call": 2,
         "no-alert": 2,
         "no-array-constructor": 2,
         "no-bitwise": [

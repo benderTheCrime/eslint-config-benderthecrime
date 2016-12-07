@@ -2,7 +2,7 @@
 ### Usage
 Add this to your project and your code will thank you:
 
-```
+```json
   "extends": "benderTheCrime",
   "rules": {
     ...
@@ -12,7 +12,7 @@ Add this to your project and your code will thank you:
 You will also need the the `babel-eslint` package, which this package uses as
 its parser:
 
-```
+```bash
 npm i --save-dev babel-eslint
 ```
 

@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.15.0] - 2016-07-12
+#### Changed
+- Enabled "newline-per-chained-call"
+- Updated README to reflect code sample types
+
 ### [1.14.0] - 2016-05-12
 #### Added/Changed/Removed
 - Added the following rules:
