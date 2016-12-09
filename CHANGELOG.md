@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.16.0] - 2016-09-12
+#### Added/Changed
+- Added rule for "no-require"
+- Added the following rules:
+  - "no-await-in-loop"
+  - "require-await"
+
 ### [1.15.0] - 2016-07-12
 #### Changed
 - Enabled "newline-per-chained-call"

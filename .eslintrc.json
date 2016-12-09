@@ -203,6 +203,7 @@
         "newline-per-chained-call": 2,
         "no-alert": 2,
         "no-array-constructor": 2,
+        "no-await-in-loop": 2,
         "no-bitwise": [
             2,
             {
@@ -483,6 +484,7 @@
             }
         ],
         "radix": 0,
+        "require-await": 2,
         "require-jsdoc": 0,
         "require-yield": 2,
         "rest-spread-spacing": [
