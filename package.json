@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-benderthecrime",
-  "version": "1.16.0",
+  "version": "1.17.0",
   "author": "Joe Groseclose <@benderTheCrime>",
   "description": "Shareable ESLint configuration",
   "private": false,
