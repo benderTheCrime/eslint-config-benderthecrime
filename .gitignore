@@ -313,7 +313,3 @@ local.properties
 
 # STS (Spring Tool Suite)
 .springBeans
-
-
-### Custom ###
-npm-shrinkwrap.json
